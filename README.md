@@ -1,4 +1,6 @@
-Os desafios da IA no processo de veracidade jornalística: Fato ou Fake? 🤔📷
+## Os desafios da IA no processo de veracidade jornalística: Fato ou Fake? 🤔📷
+
+
 
 ## 📒 Descrição
 O projeto consiste na criação de uma matéria jornalística fictícia utilizando ferramentas de inteligência artificial generativa, como modelos de texto e geração de imagens, para examinar o impacto do realismo gerado por essas tecnologias. A proposta é produzir um artigo completo, acompanhado de imagens e citações, que simule uma notícia real. A matéria será propositalmente estruturada para levantar dúvidas sobre sua autenticidade, estimulando o leitor a refletir sobre a confiabilidade das informações consumidas na era digital.
